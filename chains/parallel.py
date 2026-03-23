@@ -46,8 +46,3 @@ By the 18th century, the decline of the Mughals allowed the British East India C
 response = final_chain.invoke(text)
 
 print(response)
-
-
-
-
-
